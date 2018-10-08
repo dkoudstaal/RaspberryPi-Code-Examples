@@ -1,0 +1,7 @@
+* * * Ethernet Menu (eth0) * * * 
+*  1  Show IP address of eth0  *
+*  2  Is eth0 static or DHCP?  *
+*  3  Change IP to DHCP        *
+*  4  Change IP to static      *
+*  5  Return to Main Menu      *
+*  *  *  *  *  *  *  *  *  * * *
