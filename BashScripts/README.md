@@ -1,8 +1,6 @@
 StudentNetworkTools Version 0.5
 
-Program and concept: (c) 2018 Dirk Koudstaal and 
-
-                      (c) 2018 Kim Knight
+Program and concept: (c) 2018 Dirk Koudstaal and (c) 2018 Kim Knight
  
 Installation:
 The easiest would be to transfer the image net_tools.img to a SD card using etcher.
