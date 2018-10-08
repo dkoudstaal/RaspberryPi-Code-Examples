@@ -1,0 +1,10 @@
+ StudentNetworkTools Version 0.5
+
+ Program and concept: (c) 2018 Dirk Koudstaal 
+                  and (c) 2018 Kim Knight
+ 
+ You can redistribute it and/or modify under 
+ the terms of the GNU general public license 
+ as published by the Free Software Foundation; 
+ either version 2 of the License, 
+ or (at your option) any later version. 
