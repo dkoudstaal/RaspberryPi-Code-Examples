@@ -1,19 +1,10 @@
+StudentNetworkTools Version 0.5
 
-  StudentNetworkTools Version 0.5
+Program and concept: (c) 2018 Dirk Koudstaal and 
 
-  Program and concept: (c) 2018 Dirk Koudstaal and 
-                       (c) 2018 Kim Knight
+                      (c) 2018 Kim Knight
  
- 
-  Installation:
-    The easiest would be to transfer the image
-    StudentNetworkTools.img to a SD card using etcher.
+Installation:
+The easiest would be to transfer the image net_tools.img to a SD card using etcher.
+This image can be transferred from [here](https://www.dropbox.com/s/qwcd3ackgyv8nkv/20181008net_tools.img.tar.gz?dl=0).
 
-  File location:
-    All files are located in /home/pi/.net_tools
-    Files accessed and modified by this program:
- 	    /etc/dhcpcd/conf
- 	    /etc/wpa_supplicant/wpa_supplicant
-
-    Start the progam from the command line, type:
- 	    ./network
