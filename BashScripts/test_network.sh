@@ -1,10 +1,9 @@
 #! /bin/bash
 # StudentNetworkTools Version 0.5
-# Program and concept: (c) 2018 Dirk Koudstaal and (c) 2018 Kim Knight 
-# You can redistribute it and/or modify under 
-# the terms of the GNU general public license as published by 
-# the Free Software Foundation; either version 2 of the License, 
-# or (at your option) any later version. 
+# There is no license on this bit of scripting.
+# It would be rediculous if we claim a license 
+# as this script is just "glueing" together
+# known Bash and Linux commands. 
 
 # Files
 	user=/home/pi/.net_tools/txt_files
@@ -16,7 +15,7 @@
 	file_wifi_conf=/etc/wpa_supplicant/wpa_supplicant.conf
 	file_wifi_template=/etc/wpa_supplicant/wpa_supplicant.conf.template 
 
-	file_menu=/home/pi/.net_tools/menu.txt
+	file_menu=$user/menu.txt
 	file_eth0_menu=$user/eth0_menu.txt
 	file_wlan0_menu=$user/wlan0_menu.txt
 	file_net_menu=$user/net_menu.txt
