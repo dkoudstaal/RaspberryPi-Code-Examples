@@ -1,0 +1,9 @@
+ StudentNetworkTools Version 0.5
+
+ Program and concept: (c) 2018 Dirk Koudstaal 
+                  and (c) 2018 Kim Knight
+ 
+ There is no license on this bit of scripting.
+ It would be rediculous if we claim a license 
+ as this script is just "glueing" together
+ known Bash and Linux commands.
